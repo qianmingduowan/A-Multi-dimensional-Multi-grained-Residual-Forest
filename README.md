@@ -13,9 +13,10 @@ https://doi.org/10.1016/j.cageo.2020.104557
 
 if you used our work or code, please google our work and cite:   
 @article{weng2020land,
-  title={Land Use/Land Cover Recognition in Arid Zone Using A Multi-dimensional Multi-grained Residual Forest☆},
+  title={Land use/land cover recognition in arid zone using A multi-dimensional multi-grained residual Forest☆},
   author={Weng, Liguo and Qian, Ming and Xia, Min and Xu, Yiqing and Li, Chunzheng},
   journal={Computers \& Geosciences},
+  volume={144},
   pages={104557},
   year={2020},
   publisher={Elsevier}
